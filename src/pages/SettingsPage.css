@@ -1,0 +1,19 @@
+/* frontend/src/pages/SettingsPage.css */
+
+.settings-page {
+    padding: 20px;
+  }
+  
+  .access-token {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .access-token p {
+    word-wrap: break-word;
+  }
+  

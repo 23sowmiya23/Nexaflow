@@ -1,0 +1,45 @@
+.integration-page {
+    margin: 50px auto;
+    padding: 20px;
+    max-width: 600px;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  .integration-page h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .integration-page .loading {
+    font-size: 18px;
+    font-style: italic;
+  }
+  
+  .integration-page .sheet-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .integration-page .sheet-item {
+    margin-bottom: 10px;
+  }
+  
+  .integration-page .sheet-item span {
+    font-weight: bold;
+  }
+  
+  .integration-page .sheet-item button {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .integration-page .sheet-item button:hover {
+    background-color: #0056b3;
+  }
+  
